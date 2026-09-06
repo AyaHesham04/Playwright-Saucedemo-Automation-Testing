@@ -1,0 +1,11 @@
+{
+  "invalidUser": {
+    "username": "satahsbd",
+    "password": "secret_sauce"
+  },
+  "customer": {
+    "firstName": "Aya",
+    "lastName": "Hesham",
+    "postalCode": "12345"
+  }
+}
