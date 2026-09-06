@@ -297,19 +297,6 @@ This project demonstrates practical experience with:
 -   Business logic validation
 -   Reusable automation components
 
-## 🔮 Future Improvements
-
-Potential improvements for future iterations:
-
--   Add API testing
--   Add accessibility testing
--   Add visual regression testing
--   Improve test data generation
--   Add parallel execution strategy for CI
--   Add retry and artifact optimization
--   Add additional browser/device configurations
--   Integrate test results with a test management system
-
 ## 📌 Application Under Test
 
 **SauceDemo** is used as the application under test for this automation
